@@ -64,6 +64,7 @@ int main() {
                 printf("Max clients reached. Rejecting new client.\n");
                 close(new_socket);
             }
-        }
+        }`
+
 			return 0;
 }
