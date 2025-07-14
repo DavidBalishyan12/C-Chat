@@ -12,4 +12,3 @@
 #define MAX_CLIENTS 10
 #define BUFFER_SIZE 1024
 
-int client_sockets[MAX_CLIENTS];
